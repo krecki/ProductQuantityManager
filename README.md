@@ -1,0 +1,1 @@
+This repo will contain all of the source code for the Procuct Quantity Manager application, developed to balance the available qualtities of products across online marketplaces and with in-person sales.
